@@ -1,4 +1,4 @@
-#About
+# About
 
 GammaConsole is an embeddable Java Swing logging console that supports HTML formatting.
 
