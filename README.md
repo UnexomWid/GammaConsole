@@ -10,7 +10,7 @@ GammaConsole is a project by [UnexomWid](http://unexomwid.github.io). It is lice
 
 # Releases
 
->Note: versions with the prefix **R** are considered stable releases, while those with the prefix **D** are considered unstable.
+>Note: versions with the suffix **R** are considered stable releases, while those with the suffix **D** are considered unstable.
 
 None.
 
