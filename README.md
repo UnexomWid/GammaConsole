@@ -1,12 +1,12 @@
-# About
+# About <a href="https://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html"><img align="right" src="https://img.shields.io/badge/Java-8-B07219?logo=java" alt="Java 8" /></a>
 
 GammaConsole is an embeddable Java Swing logging console that supports HTML formatting.
 
 ![UI](img/example.png)
 
-# License
+# License <a href="https://github.com/UnexomWid/GammaConsole/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
 
-GammaConsole is a project by [UnexomWid](http://unexomwid.github.io). It is licensed under the [General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+GammaConsole was created by [UnexomWid](https://uw.exom.dev). It is licensed under the [MIT](https://github.com/UnexomWid/GammaConsole/blob/master/LICENSE) license.
 
 # Releases
 
